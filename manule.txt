@@ -1,0 +1,6 @@
+In the root directory, run "make" to compile and get the executable file "draw"
+
+Use "./draw input output" to run the program, with "input" and "output" are in/output file names.
+
+NOTE
+When entering the number of poly you want to transform, input 0 will represent the first poly, and 1 will represent the second poly, and 2 will represent the third poly, following so on
